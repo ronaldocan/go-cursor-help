@@ -41,7 +41,7 @@ Write-Host @"
 "@
 Write-Host "$BLUE================================$NC"
 Write-Host "$GREEN   Cursor 设备ID 修改工具          $NC"
-Write-Host "$YELLOW  关注微信号【wxid_3hgmjszb6wbc22】 $NC"
+Write-Host "$YELLOW  添加微信号【wxid_3hgmjszb6wbc22】 $NC"
 Write-Host "$BLUE================================$NC"
 Write-Host ""
 
